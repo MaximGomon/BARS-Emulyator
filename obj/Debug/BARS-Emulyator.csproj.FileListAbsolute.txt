@@ -1,0 +1,10 @@
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\bin\Debug\BARS-Emulyator.exe
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\bin\Debug\BARS-Emulyator.pdb
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\bin\Debug\BARS-Emulyator.exe.config
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\obj\Debug\BARS_Emulyator.CoreForm.resources
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\obj\Debug\BARS_Emulyator.Properties.Resources.resources
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\obj\Debug\BARS_Emulyator.SettingForm.resources
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\obj\Debug\BARS-Emulyator.csproj.GenerateResource.Cache
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\obj\Debug\BARS-Emulyator.exe
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\obj\Debug\BARS-Emulyator.pdb
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\BARS-Emulyator\BARS-Emulyator\obj\Debug\BARS-Emulyator.csprojResolveAssemblyReference.cache

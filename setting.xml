@@ -1,0 +1,68 @@
+﻿<Setting xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/BARS_Emulyator">
+  <AccountOpenDate>2015-03-26T18:04:52.6531403+02:00</AccountOpenDate>
+  <AccountStatusCode>1</AccountStatusCode>
+  <AccountTypeCode>pr_uo</AccountTypeCode>
+  <AgreementOpenDate>2015-03-26T18:04:52.6531403+02:00</AgreementOpenDate>
+  <AgreementStatus>1</AgreementStatus>
+  <AgreementType>deposit</AgreementType>
+  <AllBarsUrlList xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:string>http://localhost:8105/json.rpc</d2p1:string>
+  </AllBarsUrlList>
+  <BirthDate>2015-03-26T18:04:52.6531403+02:00</BirthDate>
+  <BranchCode>/322669/000000/000007/</BranchCode>
+  <BranchName>ТВБВ №10026/0126 філії - ГУ по м.Києву та Київській обл. АТ "Ощадбанк"</BranchName>
+  <ChangeDate>2015-03-26T18:04:52.6531403+02:00</ChangeDate>
+  <ClientType>1</ClientType>
+  <CreateDate>2015-03-26T18:04:52.6531403+02:00</CreateDate>
+  <CurrencyCode>980</CurrencyCode>
+  <CurrentBarsUrl>http://localhost:8105/json.rpc</CurrentBarsUrl>
+  <MethodsName xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetAgreementData</d2p1:Key>
+      <d2p1:Value>SetAgreementData</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetDocumentDataWithOutBinary</d2p1:Key>
+      <d2p1:Value>SetDocumentData</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetDocumentDataWithBinary</d2p1:Key>
+      <d2p1:Value>SetDocumentData</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>ActualizeIdDocs</d2p1:Key>
+      <d2p1:Value>ActualizeIdDocs</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetClientData</d2p1:Key>
+      <d2p1:Value>SetClientData</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>GetDocumentData</d2p1:Key>
+      <d2p1:Value>GetDocumentData</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetDictionaryData</d2p1:Key>
+      <d2p1:Value>SetDictionaryData</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetAccountDataU</d2p1:Key>
+      <d2p1:Value>SetAccountDataU</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetClientDataU</d2p1:Key>
+      <d2p1:Value>SetClientDataU</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>SetAgreementDataU</d2p1:Key>
+      <d2p1:Value>SetAgreementDataU</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+  </MethodsName>
+  <SessionId>dn2pzk35u5qwxqdaf21k5tky</SessionId>
+  <UserBranchCodeOther>/322669/000000/000007/</UserBranchCodeOther>
+  <UserLoginOther>U26_001_S60</UserLoginOther>
+  <UserLoginSs>BARS</UserLoginSs>
+  <UserNameOther>Павлюченко Валентина Андріївна</UserNameOther>
+  <UserNameSs>BARS</UserNameSs>
+  <UserPasswordSs>3dac72783f355eb5f7204a16e28581aa</UserPasswordSs>
+</Setting>
